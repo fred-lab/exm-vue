@@ -1,0 +1,20 @@
+/* Colors */
+$primary-color : #ffffff;
+$secondary-color : #F0F0F5;
+$design-color : #CAD6DD;
+$quiz-color : #00587C;
+$time-color : #B0BC22;
+$danger-color : #ed3024;
+
+/* fonts */
+@font-face {
+  font-family: Helvetica-Light;
+  src: url('/static/fonts/HelveticaNeueLTStd-Lt_0.otf');
+}
+@font-face {
+  font-family: Helvetica-Bold;
+  src: url('/static/fonts/HelveticaNeueLTStd-Bd_0.otf');
+}
+
+$font-bold : Helvetica-Bold;
+$font-light : Helvetica-light;
